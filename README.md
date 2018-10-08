@@ -8,6 +8,9 @@
 
 This project implements a web scraper for LinkedIn. Its purpose is to scrape links to job postings from last week,  including words/phrases given as an input parameter.
 
+This implementation uses the Implementation of Kirk Hunter's [linkedin-jobs-scraper](https://github.com/kirkhunter/linkedin-jobs-scraper
+) as the base.
+
 ## Configuration
 
 All relevant paramenters can be adjusted in query.json file with following fields:
